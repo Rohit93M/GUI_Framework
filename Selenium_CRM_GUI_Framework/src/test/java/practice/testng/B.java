@@ -2,7 +2,7 @@ package practice.testng;
 
 import org.testng.annotations.Test;
 
-import com.crm.generic.baseutility.BaseClass;
+import com.crm.generic_utilities.BaseClass;
 
 
 

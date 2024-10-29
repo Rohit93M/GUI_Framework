@@ -10,16 +10,16 @@
   <testcase classname="practice.testng.C" name="m7" time="0.016"/>
   <testcase classname="practice.testng.C" name="m8" time="0.015"/>
   <testcase classname="practice.testng.C" name="m9" time="0.016"/>
-  <testcase classname="com.crm.generic.baseutility.BaseClass" name="@AfterSuite configAS" time="0.0">
+  <testcase classname="com.crm.generic_utilities.BaseClass" name="@AfterSuite configAS" time="0.0">
     <ignored/>
   </testcase> <!-- @AfterSuite configAS -->
-  <testcase classname="com.crm.generic.baseutility.BaseClass" name="@AfterSuite configAS" time="0.0">
+  <testcase classname="com.crm.generic_utilities.BaseClass" name="@AfterSuite configAS" time="0.0">
     <ignored/>
   </testcase> <!-- @AfterSuite configAS -->
-  <testcase classname="com.crm.generic.baseutility.BaseClass" name="@BeforeSuite configBS" time="0.0">
+  <testcase classname="com.crm.generic_utilities.BaseClass" name="@BeforeSuite configBS" time="0.0">
     <ignored/>
   </testcase> <!-- @BeforeSuite configBS -->
-  <testcase classname="com.crm.generic.baseutility.BaseClass" name="@BeforeSuite configBS" time="0.0">
+  <testcase classname="com.crm.generic_utilities.BaseClass" name="@BeforeSuite configBS" time="0.0">
     <ignored/>
   </testcase> <!-- @BeforeSuite configBS -->
 </testsuite> <!-- Test -->

@@ -8,7 +8,7 @@ import org.testng.annotations.BeforeMethod;
 import org.testng.annotations.BeforeSuite;
 import org.testng.annotations.Test;
 
-import com.crm.generic.baseutility.BaseClass;
+import com.crm.generic_utilities.BaseClass;
 
 public class CreateContactTest extends BaseClass {
 	
