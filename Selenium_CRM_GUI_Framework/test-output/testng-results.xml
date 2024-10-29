@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="2" total="3" passed="1" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2024-10-29T12:16:30 IST" name="Default suite" finished-at="2024-10-29T12:16:30 IST" duration-ms="159">
+    <groups>
+    </groups>
+    <test started-at="2024-10-29T12:16:30 IST" name="Default test" finished-at="2024-10-29T12:16:30 IST" duration-ms="159">
+      <class name="practice.extentreports.SampleReportTest">
+        <test-method is-config="true" signature="configBS()[pri:0, instance:practice.extentreports.SampleReportTest@77888435]" started-at="2024-10-29T12:16:29 IST" name="configBS" finished-at="2024-10-29T12:16:30 IST" duration-ms="730" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- configBS -->
+        <test-method signature="createContactWithOrgTest()[pri:0, instance:practice.extentreports.SampleReportTest@77888435]" started-at="2024-10-29T12:16:30 IST" name="createContactWithOrgTest" finished-at="2024-10-29T12:16:30 IST" duration-ms="50" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- createContactWithOrgTest -->
+        <test-method is-config="true" signature="configAS()[pri:0, instance:practice.extentreports.SampleReportTest@77888435]" started-at="2024-10-29T12:16:30 IST" name="configAS" finished-at="2024-10-29T12:16:31 IST" duration-ms="917" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- configAS -->
+      </class> <!-- practice.extentreports.SampleReportTest -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
